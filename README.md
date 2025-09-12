@@ -6,8 +6,8 @@ Dies ist mein erstes Projekt in Excel.
 Es zeigt, wie man Daten mit Excel visualisieren und auswerten kann.  
 
 ## Inhalt
--  supply_chain_data.csv -> [Ursprungsdatensatz auf Kaggle](https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis) (abgerufen am 27.08.2025, 20:58 Uhr)
--  SupplyChain_ExcelTraining.xlsx -> Hauptdokument mit Auswertung
+- `supply_chain_data.csv` -> [Ursprungsdatensatz auf Kaggle](https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis) (abgerufen am 27.08.2025, 20:58 Uhr)
+- `SupplyChain_ExcelTraining.xlsx` -> Hauptdokument mit Auswertung
   
 ## Funktionen
 - Datenauswertung mit Pivot-Tabellen
