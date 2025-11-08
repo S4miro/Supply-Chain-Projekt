@@ -1,8 +1,7 @@
 # Excel Supply Chain Projekt
 *Analyse eines Fashion & Beauty Startups*
 
-In diesem kleinen Projekt habe ich in Excel einen Datensatz eines Fashion and Beauty Startups analysiert und die wichtigsten Erkenntnisse zusammengefasst.
-Dies ist mein erstes Projekt in Excel.  
+In diesem kleinen Projekt habe ich in Excel einen Datensatz eines Fashion and Beauty Startups analysiert und die wichtigsten Erkenntnisse zusammengefasst. 
 Es zeigt, wie man Daten mit Excel visualisieren und auswerten kann.  
 
 ## Inhalt
